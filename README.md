@@ -25,7 +25,7 @@ An end-to-end machine learning project analyzing 70,000+ Olympic athlete records
 ## Project Structure
 
 ```
-olympic-medal-prediction/
+going-for-gold/
 ├── notebook/
 │   └── olympic_medal_prediction.ipynb
 ├── data/
